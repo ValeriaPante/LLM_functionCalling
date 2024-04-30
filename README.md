@@ -13,4 +13,4 @@ This function calling capability makes LLMs more powerful for different reasons:
 - Complex Tasks: By calling external functions, LLMs can perform actions that they wouldn't be able to do on their own, opening them up to a wider range of tasks.
 - Improved Accuracy: By using data and tools from external sources, LLMs can potentially improve the accuracy and relevance of their responses.
 
-More info on OpenAI function calling here[https://platform.openai.com/docs/guides/function-calling].
+More info on OpenAI function calling [here](https://platform.openai.com/docs/guides/function-calling).
